@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+.head{ text-align: center;
+      font-size: 43px
+
+ }
+
+
+.heads{
+	text-align: center;
+	    font-size: 17px;
+    padding-top: 15px;
+    color: #4c527d
+}
+.logo{
+	width: 100%;
+	float: left;
+	padding: 60px;
+    margin-left: 96px;
+}
+.log1{
+	width: 33.33%;
+	float: left;
+} 
+.log2{
+   width: 33.33%;
+   float: left;
+}
+.log3{
+	width: 33.33%;
+	float: left;
+}
+.log1 p{
+	text-align: center;  
+	padding-top: 15px;
+	font-size: 15px;
+	font-weight: 900px
+}
+.sen{
+	padding-right: 186px;
+    text-align: center;
+    padding-top: 15px;
+        
+}
+.log1 img{
+	padding-left: 60px;
+}
+.log2 img{
+		padding-left: 60px;
+
+}
+.log3  img{
+		padding-left: 60px;
+
+}
+.logo .sen{
+	font-size: 22px
+}
+.pen{
+		padding-right: 186px;
+    text-align: center;
+    padding-top: 15px;
+}
+.logo .pen{
+	    font-size: 12px;
+    line-height: 15px;
+    color: #4c527d
+}
